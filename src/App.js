@@ -10,11 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-	      <p>
-	        some more shit !!!
-	      </p>
         <h2>
-          tinok ! from the feature branch
+          Hi ! from the feature branch
         </h2>
         <a
           className="App-link"
