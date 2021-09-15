@@ -14,7 +14,7 @@ function App() {
 	        some more shit !!!
 	      </p>
         <h2>
-          tinok
+          tinok ! from the feature branch
         </h2>
         <a
           className="App-link"
